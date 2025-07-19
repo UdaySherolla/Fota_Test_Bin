@@ -1,1 +1,16 @@
-Hello World!
+Hello World!   We, at Skylark Embedded Systems established during 2017, equipped with modern manufacturing facility at Hyderabad, are engaged in Design, Development, Manufacturing, Supply and After-Sales-Support of Embedded based Projects specially  in the field of Railways, Pharma,Telecommunication, Transportation and Power Sectors providing new product development, product re-engineering and product support services in Hardware, Software and Infrastructure Development areas.
+
+We are fully equipped with a full-fledged in-house R&D Team capable to design, develop of Integrated Passenger Information Systems,Passenger Announcement Systems, GPS Clocks,Public Addressing Systems,Video wall,Digital Clocks,Door Interlocking Systems,Temperature Indicators,Surveillance,Fire Al rams, SMPS ,UPS,Invortars, Led Display Boards ,Power Supplies
+
+Vision
+ To provide enabling environment for individual 
+
+Mission
+ To offer dependable products and services to our customers and to build long term relationship through customer satisfaction. 
+ 
+
+Quality Policy
+ We are committed to meeting customer requirements by offering  reliable products and dependable services through continually improving the effectiveness of our processes of quality management system and by providing enabling environment to individuals. 
+
+Design & Development
+ Ever since its inception, Skylark has been constantly striving to adapt the best technologies and manufacturing practices, keeping in mind the needs of its  customers. Skylark has its own Design & Development Center where about 10 qualified engineers, with a blend of Hardware, software and firmware expertise are encouraged to innovate and develop products for Railway,Pharma, Transportation,Telecom and Industrial markets. 
